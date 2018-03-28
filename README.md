@@ -2,19 +2,19 @@
 
 ## sujet traité [loadCSS](https://github.com/filamentgroup/loadCSS)
 
-todo : Ajout des badges (npm, dependencies, devDependencies)  
+todo : Ajouter des badges (npm, dependencies, devDependencies)  
 
 Réalisé par : [Thierno Ciré SOW](https://github.com/thierno2018)
 
 les tâches réalisées
 ----------------------
-- [le dépôt loadCSS forké](https://github.com/thierno2018/loadCSS)
+- [dépôt loadCSS forké](https://github.com/thierno2018/loadCSS)
 
-- [la branche feat-add-badges](https://github.com/thierno2018/loadCSS/tree/feat-add-badges)
+- [création de branche feat-add-badges](https://github.com/thierno2018/loadCSS/tree/feat-add-badges)
 
-- [le commit effectué](https://github.com/thierno2018/loadCSS/commit/72cb0b248c459b17249082e4dc95ca6495016c0f)
+- [commit effectué](https://github.com/thierno2018/loadCSS/commit/72cb0b248c459b17249082e4dc95ca6495016c0f)
 
-- [la pull Request effectuée](https://github.com/filamentgroup/loadCSS/pull/269)
+- [pull Request effectuée](https://github.com/filamentgroup/loadCSS/pull/269)
 
 les badges ajoutés dans le fichier Readme.md
 --------------------------------------------
